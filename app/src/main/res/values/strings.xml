@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Traveling</string>
+    <string name="escribe_mensaje">¿A dónde quieres viajar? ...</string>
+    <string name="buscar">Buscar</string>
+</resources>
